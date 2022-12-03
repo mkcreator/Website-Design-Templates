@@ -1,0 +1,33 @@
+.gallery_container{
+    background-color:wheat;
+}
+.main_gallery{
+   margin-top: 0%;
+    justify-content: space-evenly;
+    display:flex;
+    flex-direction: row;
+}
+img{
+    border-radius:30px;
+    width: auto;
+    height: 200px;
+}
+
+.main2_gallery{
+    
+    justify-content: space-evenly;
+    display:flex;
+    flex-direction: row;
+}
+.main3_gallery{
+    
+    justify-content: space-evenly;
+    display:flex;
+    flex-direction: row;
+}
+.main4_gallery{
+
+    justify-content: space-evenly;
+    display:flex;
+    flex-direction: row;
+}
